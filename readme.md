@@ -1,9 +1,7 @@
 # AI Reseach and Artifacts
 
-- This repository contains Artificial Intelligence and Machine Learning related research, artificats, tutorials, articles. 
-- My intention is to help you through your journey of becoming Artificial Intelligence and Machine Learning campion!
-
-- If you want to contribute to this list, please read add your comments to this gits comment section.
+- This repository contains Artificial Intelligence and Machine Learning related research, artificats, tutorials, articles. My intention is to help you through your journey of becoming Artificial Intelligence and Machine Learning champion!
+- If you want to contribute to this list, please add your comments to this gits comments section.
 
 ## Contents
 - [Introduction](#general)
@@ -74,9 +72,7 @@ Here are few Imp sites on AI research. Amazon recenly opened its internal AI tra
 ## Genetic Algorithms
 
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- 
 - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
-- 
 ## Useful Blogs
 - [Fast AI blog](https://www.fast.ai/) - Fast AI Blog
 - [AWS Machine Learning blog] (https://aws.amazon.com/blogs/machine-learning/) - AWS Machine Learning blog, specific to AWS but very helpful

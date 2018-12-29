@@ -74,8 +74,8 @@ Here are few Imp sites on AI research. Amazon recenly opened its internal AI tra
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
 ## Useful Blogs
-- [Fast AI blog](https://www.fast.ai/) - Fast AI Blog
-- [AWS Machine Learning blog] (https://aws.amazon.com/blogs/machine-learning/) - AWS Machine Learning blog, specific to AWS but very helpful
+- [Fast AI blog](https://www.fast.ai/) Fast AI Blog
+- [AWS Machine Learning blog] (https://aws.amazon.com/blogs/machine-learning/) AWS Machine Learning blog, specific to AWS but very helpful
 - [Data science for beginners!](http://www.dataschool.io/)  - good beginner level blog
 - [Andrej Karpathy](http://karpathy.github.io/) - A blog about Deep Learning and Data Science in general
 - [Alex Minnaar's Blog](http://alexminnaar.com/) - A blog about Machine Learning and Software Engineering
@@ -86,8 +86,8 @@ Here are few Imp sites on AI research. Amazon recenly opened its internal AI tra
 <a name="cs" />
 
 ## Cheat Sheets
-- [Machine learning algorithm cheat sheet from Microsoft] (https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet) - very interesting take
-- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - nice for interview prep
+- [Machine learning algorithm cheat sheet from Microsoft] (https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)  very interesting take
+- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)  nice for interview prep
 
 
 <a name="classification" />

@@ -6,6 +6,7 @@
 ## Contents
 - [Introduction](#general)
 - [Genetic Algorithms](#ga)
+- [Datasets](#datasets)
 - [Cheat Sheets](#cs)
 - [Classification](#classification)
 - [Linear Regression](#linear)
@@ -88,6 +89,19 @@ Here are few Imp sites on AI research. Amazon recenly opened its internal AI tra
 ## Cheat Sheets
 - [Machine learning algorithm cheat sheet from Microsoft] (https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)  very interesting take
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)  nice for interview prep
+
+<a name="datasets" />
+
+## Datasets
+
+- https://registry.opendata.aws/
+- https://aws.amazon.com/about-aws/whats-new/2018/10/public-datasets/
+- https://course.fast.ai/datasets.html
+- https://ai.google/tools/datasets/
+- https://skymind.ai/wiki/open-datasets
+- https://www.kaggle.com/datasets?sortBy=relevance&group=all&search=tag%3A%27artificial%20intelligence%27
+- https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+- https://www.datasciencecentral.com/profiles/blogs/lots-of-free-open-source-datasets-to-make-your-ai-better
 
 
 <a name="classification" />
